@@ -12,13 +12,13 @@
   "author": "max ogden",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "extend": "~1.2.1",
-    "through2": "^0.4.1"
+    "extend": "~3.0.0",
+    "through2": "^2.0.1"
   },
   "devDependencies": {
-    "tape": "~1.1.1",
-    "csv-spectrum": "~0.2.0",
-    "concat-stream": "~1.2.0"
+    "tape": "~4.6.2",
+    "csv-spectrum": "~1.0.0",
+    "concat-stream": "~1.5.2"
   },
   "directories": {
     "test": "test"
